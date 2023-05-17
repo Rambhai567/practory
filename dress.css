@@ -1,0 +1,55 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.treo{
+    padding: 16px;
+    margin-top: 80px;
+    border: 2px solid black;
+    width: 777px;
+}
+.container{
+
+    margin-top: 80px;
+}
+body {
+    background-image: linear-gradient(to bottom right, rgba(30, 144, 255, 1)    , rgba(107, 21, 172, 0.414));
+/* background-color: #2ecc71; */
+/* background-image: url(nature.jpg); */
+    background-size: cover;
+}
+.box{
+    display: flex;
+    border: 12px solid green;
+    border-radius: 9px;
+    background-color: #FF6347;
+}
+.earth{
+    color: rgb(0, 123, 255);
+}
+.nature{
+    padding-left: 266px;
+    /* border-left: 3px solid black; */
+}
+.gap{
+    padding-right: 80px;
+    font-size: 23px;
+    color:chartreuse;
+}
+.music1{
+    width: 240px;
+    background-color: #f8f7f7;
+    color: rgb(6, 3, 3);
+}
+
+
+
+
+
+
+
+
+
+
+
+
